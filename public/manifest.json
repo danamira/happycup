@@ -1,0 +1,31 @@
+{
+    "name": "HappyCup",
+    "short_name": "HappyCup",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#E7A83C",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/assets/icons/icon-96.png",
+        "type": "image/png", "sizes": "96x96"
+      },
+      {
+        "src": "/assets/icons/icon-128.png",
+        "type": "image/png","sizes": "128x128"
+      },
+      {
+        "src": "/assets/icons/icon-144.png",
+        "type": "image/png", "sizes": "144x144"
+      },
+      {
+        "src": "/assets/icons/icon-256.png",
+        "type": "image/png", "sizes": "256x256"
+      },
+      {
+        "src": "/assets/icons/icon-512.png",
+        "type": "image/png", "sizes": "512x512"
+      }
+    ]
+  }
